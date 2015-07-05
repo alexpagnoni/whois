@@ -1,0 +1,35 @@
+# Module short name
+MODULEIDNAME      = whois
+
+# Module version number
+MODULEVERSION     = 1.1.1
+
+# Module release date
+MODULEDATE        = 2002/06/18
+
+# Module long description
+MODULEDESCRIPTION = Whois library (built on v.2.2-4).
+
+# Module dependencies
+MODULEDEPENDENCIES = 
+
+# Module suggestions
+MODULESUGGESTIONS =
+
+MODULE_AUTHOR        = Solarix
+
+MODULE_AUTHOR_EMAIL  = info@solarix.biz
+
+MODULE_AUTHOR_SITE   = http://www.solarix.biz/
+
+MODULE_SUPPORT_EMAIL = support@ampoliros.com
+
+MODULE_BUGS_EMAIL    = bugs@ampoliros.com
+
+MODULE_COPYRIGHT     = 
+
+MODULE_LICENSE       = GPL
+
+MODULE_LICENSE_FILE  = LICENSE
+
+MODULE_CATEGORY      = hostman

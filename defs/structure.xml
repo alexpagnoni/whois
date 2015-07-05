@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<structure>
+	<library	name="whois"	file="whois.library"/>
+	<library	name="whoisutils"	file="whoisutils.library"/>
+	<library	name="atnic.whois"	file="atnic.whois"/>
+	<library	name="brnic.whois"	file="brnic.whois"/>
+	<library	name="bulkregistercom.whois"	file="bulkregistercom.whois"/>
+	<library	name="cdnnet.whois"	file="cdnnet.whois"/>
+	<library	name="chnic.whois"	file="chnic.whois"/>
+	<library	name="cira.whois"	file="cira.whois"/>
+	<library	name="core.whois"	file="core.whois"/>
+	<library	name="dotster.whois"	file="dotster.whois"/>
+	<library	name="enom.whois"	file="enom.whois"/>
+	<library	name="gtld.whois"	file="gtld.whois"/>
+	<library	name="http.whois"	file="http.whois"/>
+	<library	name="inwwcom.whois"	file="inwwcom.whois"/>
+	<library	name="netsol.whois"	file="netsol.whois"/>
+	<library	name="nicse.whois"	file="nicse.whois"/>
+	<library	name="nunames.whois"	file="nunames.whois"/>
+	<library	name="opensrsnet.whois"	file="opensrsnet.whois"/>
+	<library	name="registercom.whois"	file="registercom.whois"/>
+	<library	name="servers.whois"	file="servers.whois"/>
+	<library	name="uknic.whois"	file="uknic.whois"/>
+</structure>
